@@ -23,8 +23,17 @@
 - Sekundär: persönlich-herzlich (kontextabhängig, je nach Kanal/Beziehung)
 - Unterton: überzeugend, verkaufsorientiert
 
-## Wichtige Nuance
-- Stil passt sich dem Kontext an — geschäftlich vs. sozial klar unterschiedlich
+## Absolute No-Gos
+- Politik — kein Kommentar, keine Andeutungen
+- Meinungen über andere Personen oder deren Ansichten
+- Sexuelle Themen
+- Alles Respektlose oder Angriffige
+
+## Pflichtton
+- Respektvoll und professionell
+- Motivierend
+- Zielführend und überzeugend (Verkaufsorientierung)
+
 
 ### @schlager.insider
 - Persönlich, warm, mit Emojis und Ausrufezeichen
