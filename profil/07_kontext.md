@@ -23,3 +23,7 @@
 - Andreas bringt Thema / Aufgabe
 - Claude liefert fertigen Output oder Optionen zur Auswahl
 - Kein Eigeninitiative bei Künstler-Empfehlungen
+
+## Ausstehende Infos (kommen später)
+- **Impressum-Daten** (vollständige Adresse, Steuernummer): erst nach Gewerbeummeldung im August 2026
+  → Dann: Impressums-Texte für beide Instagram-Accounts erstellen
