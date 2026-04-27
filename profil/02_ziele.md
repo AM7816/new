@@ -5,6 +5,16 @@ Aufbau von zwei Einkommensströmen parallel zum Weinverkauf (HV):
 1. **Affiliate/Online-Business** über zwei Instagram-Accounts
 2. **Live-Event** (Schlager/Musik) im August/September 2027
 
+## Event-Details (August/September 2027)
+- Größe: klein, ca. **100–120 Personen**
+- Mögliche Künstler (persönliche Kontakte vorhanden):
+  - Duo Sunrise
+  - Melanie Payer
+  - Pia-Sophie
+  - Liane
+  - Anni Perka
+  - Uta Bresan
+
 ## ELEVATE (Hauptprodukt @digital.income.de)
 - Umfassender Online-Kurs zum Aufbau eines Online-Business
 - Erstellt von: Julia Trost
