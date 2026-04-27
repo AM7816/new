@@ -5,6 +5,14 @@ Aufbau von zwei Einkommensströmen parallel zum Weinverkauf (HV):
 1. **Affiliate/Online-Business** über zwei Instagram-Accounts
 2. **Live-Event** (Schlager/Musik) im August/September 2027
 
+## ELEVATE (Hauptprodukt @digital.income.de)
+- Umfassender Online-Kurs zum Aufbau eines Online-Business
+- Erstellt von: Julia Trost
+- Entdeckt über: Instagram-Werbeanzeige
+- Modell: Verkauf an Geschäftskunden + Affiliate-Vertrieb möglich
+- Affiliate-Provision: **50 %** auf jeden Verkauf an Geschäftskunden
+- Haupteinnahmequelle in der Aufbauphase
+
 ---
 
 ## Zwei Instagram-Accounts
