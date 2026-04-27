@@ -1,5 +1,12 @@
 # Werte, Persönlichkeit & Hintergrund
 
+## Motivation & Antrieb
+- Weinverkauf (HV) langfristig **ersetzen**, nicht nur ergänzen
+- Mehr Einkommen / höherer Verdienst
+- Mehr persönliche **Freiheit**
+- Das Event ist ein **Herzensprojekt** — aber mit dem Anspruch, Gewinn zu machen
+
+
 ## Persönliche Leidenschaften
 - **Popschlager**: Leidenschaft seit Kindheit
   - Entwicklung: Volkstümlicher Schlager → Moderner Schlager → Popschlager
