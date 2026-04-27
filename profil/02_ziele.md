@@ -17,10 +17,13 @@ Aufbau von zwei Einkommensströmen parallel zum Weinverkauf (HV):
 
 ## ELEVATE (Hauptprodukt @digital.income.de)
 - Umfassender Online-Kurs zum Aufbau eines Online-Business
+- Inhalt (grob): Aufbau eines Online-Business mit Online-Kursen; ELEVATE selbst ist dabei das Produkt das vermarktet und verkauft wird
 - Erstellt von: Julia Trost
 - Entdeckt über: Instagram-Werbeanzeige
+- Preis: **1.999 €** (Ratenzahlung auf Anfrage möglich)
 - Modell: Verkauf an Geschäftskunden + Affiliate-Vertrieb möglich
-- Affiliate-Provision: **50 %** auf jeden Verkauf an Geschäftskunden
+- Affiliate-Provision: **50 %** pro Verkauf = ~1.000 € je Abschluss
+- Andreas hat ELEVATE selbst noch nicht — Detailwissen zum Kurs noch begrenzt
 - Haupteinnahmequelle in der Aufbauphase
 
 ---
