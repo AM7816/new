@@ -1,5 +1,9 @@
 # Person & Beruflicher Hintergrund
 
+## Persönliches
+- **Name**: Andreas
+- **Wohnort**: Bayern, Unterallgäu
+
 ## Aktuelle Tätigkeit
 - Selbständiger Getränkeverkäufer / Weinberater
 - Tätig für: Weinhaus Pallhuber

@@ -25,4 +25,11 @@
 
 ## Wichtige Nuance
 - Stil passt sich dem Kontext an — geschäftlich vs. sozial klar unterschiedlich
-- Für Instagram-Content (@schlager.insider / @digital.income.de): persönlicher Stil mit Emojis und Ausrufezeichen, nicht zu steif
+
+### @schlager.insider
+- Persönlich, warm, mit Emojis und Ausrufezeichen
+- Fan spricht zu Fans — auf Augenhöhe
+
+### @digital.income.de
+- Professioneller Ton
+- Seriös und überzeugend, weniger locker als Schlager-Account
