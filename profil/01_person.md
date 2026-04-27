@@ -2,6 +2,7 @@
 
 ## Persönliches
 - **Name**: Andreas
+- **Alter**: 48
 - **Wohnort**: Bayern, Unterallgäu
 
 ## Aktuelle Tätigkeit
