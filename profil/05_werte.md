@@ -10,25 +10,31 @@
 
 ## Lieblionskünstler & persönliche Verbindungen
 
-### Persönlich bekannt + Fanclub-Mitglied
+### Fanclub-Mitglied + persönlich bekannt
 - **Duo Sunrise** (Südtirol)
-- **Pia-Sophie** — Mitglied im internen Team
 - **Liane**
-- **Marianne Cathomen**
 - **Melanie Payer**
 - **Anni Perka**
 - **Linda Fäh**
-- **Jenice** — Mitglied im internen Team
-- **Graziano**
+- **Heike Renner**
 
-### Bekannt / in Kontakt, kein Fanclub
+### Internes Team-Mitglied (noch enger)
+- **Pia-Sophie**
+- **Jenice**
+
+### Persönlich bekannt, kein Fanclub
+- **Marianne Cathomen**
+- **Graziano**
+- **Mitch Keller** — von Konzerten bekannt, hin und wieder schöne Songs
+
+### Kontakt ohne Fanclub
+- **Uta Bresan** — regelmäßiger Instagram-Direktkontakt
 - **Pauline**
 - **Amadinos**
 - **René Bisang**
-- **Uta Bresan** — regelmäßiger Instagram-Direktkontakt
 
-### Weitere Favoriten
-- **Mitch Keller** — hin und wieder schöne Songs
+## Instagram-Accounts
+- Noch nicht angelegt — Aufbau laut Masterplan ab August/September 2026
 
 ## Bedeutung für Content & Event
 - @schlager.insider ist KEIN strategisch gewähltes Nischenthema — es ist echte Leidenschaft
