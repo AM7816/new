@@ -23,7 +23,9 @@ Aufbau von zwei Einkommensströmen parallel zum Weinverkauf (HV):
 - Preis: **1.999 €** (Ratenzahlung auf Anfrage möglich)
 - Modell: Verkauf an Geschäftskunden + Affiliate-Vertrieb möglich
 - Affiliate-Provision: **50 %** pro Verkauf = ~1.000 € je Abschluss
-- Andreas hat ELEVATE selbst noch nicht — Detailwissen zum Kurs noch begrenzt
+- Andreas muss ELEVATE **nicht kaufen** um es zu vertreiben — von Julia Trost ausdrücklich erlaubt
+- Kauf optional (später möglich, wenn gewünscht)
+- **Start**: sobald @digital.income.de auf Instagram angelegt ist (August 2026)
 - Haupteinnahmequelle in der Aufbauphase
 
 ---
