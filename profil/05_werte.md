@@ -25,8 +25,8 @@
 - **Linda Fäh**
 - **Heike Renner**
 
-### Internes Team-Mitglied (noch enger)
-- **Pia-Sophie**
+### Internes Team-Mitglied (inoffizieller Fanclub / enger Kreis)
+- **Pia-Sophie** — Teammitglied, Event diesen Samstag in der Schweiz → persönliches Gespräch möglich
 - **Jenice**
 
 ### Persönlich bekannt, kein Fanclub

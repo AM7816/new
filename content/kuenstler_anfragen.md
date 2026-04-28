@@ -134,7 +134,7 @@ Andreas Mayer
 | Duo Sunrise | 2.500 € (Fanclubpreis) | USt, evtl. keine Ausländersteuer (DE-Wohnsitz), evtl. Technik inklusive | ? | angefragt, vielversprechend |
 | Melanie Payer | 900–1.000 € | USt, KSK 4,9%, Ausländersteuer 18,8%, Hotel 2 EZ (Künstlerin + Mann + Manager), evtl. Technik | ja (Manager = Freund) | angefragt |
 | Uta Bresan | 2.000–3.500 € | USt, KSK 4,9%, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | ? | angefragt über Management |
-| Pia-Sophie | 2.900 € (zu hoch kommuniziert) | USt, KSK, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | eigenes Angebot erlaubt | **TV-Präsenz: Giovanni Zarella (ZDF), Immer wieder sonntags (ARD), ZDF Fernsehgarten, viele Auftritte CH → aufsteigender Stern, sehr gefragt** |
+| Pia-Sophie | 2.900 € (zu hoch kommuniziert) | USt, KSK, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | eigenes Angebot erlaubt — **Andreas ist Teammitglied (inoffizieller Fanclub)** → persönliches Gespräch diesen Samstag in CH möglich | TV: Giovanni Zarella (ZDF), Immer wieder sonntags (ARD), ZDF Fernsehgarten, viele CH-Auftritte → aufsteigender Stern |
 | Anni Perka | 3.000 € (2×20 Min.) / 4.000 € (2×30 Min.) | USt, KSK, Hotel 1 DZ (Künstlerin + Mann/Manager), Fahrt, evtl. Technik | kaum laut Mann/Manager — aber: **persönliche Beziehung! Hat bei Andreas' Geburtstagsfeier gesungen, Fanclub-Mitglied** → direktes Gespräch mit Anni selbst sinnvoll | persönlicher Kontakt nutzen, ggf. Anni direkt ansprechen statt über Manager |
 | Liane | unbekannt | — | per du, Fanclub | aufsteigend, europaweit, Bolero Mallorca — Budget-Anfrage mit Preisnennung empfohlen |
 | Linda Fäh | unbekannt | — | — | noch nicht angefragt |
