@@ -83,7 +83,7 @@ Das ist die Kernherausforderung des Events.
 - Lokale Firmen im Unterallgäu (Handwerk, Gastronomie, Einzelhandel)
 - Autohaus / Kfz-Händler in der Region
 - Lokale Brauereien / Getränkehandel
-- Weinhaus Pallhuber (naheliegend — du kennst die Strukturen)
+- ~~Weinhaus Pallhuber~~ — scheidet aus (kein persönlicher Kontakt zur Geschäftsführung)
 - Regionale Medien (Memminger Zeitung etc.) als Medienpartner
 
 ---
