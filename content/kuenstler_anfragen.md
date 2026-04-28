@@ -127,16 +127,98 @@ Andreas Mayer
 
 ---
 
-## Übersicht Künstler-Status
+## Übersicht Künstler-Status & Konditionen
 
-| Künstler | Status | Nächster Schritt |
+| Künstler | Gage (netto) | Zusatzkosten | Verhandelbar | Status |
+|---|---|---|---|---|
+| Duo Sunrise | 2.500 € (Fanclubpreis) | USt, evtl. keine Ausländersteuer (DE-Wohnsitz), evtl. Technik inklusive | ? | angefragt, vielversprechend |
+| Melanie Payer | 900–1.000 € | USt, KSK 4,9%, Ausländersteuer 18,8%, Hotel 2 EZ (Künstlerin + Mann + Manager), evtl. Technik | ja (Manager = Freund) | angefragt |
+| Uta Bresan | 2.000–3.500 € | USt, KSK 4,9%, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | ? | angefragt über Management |
+| Pia-Sophie | 2.900 € | USt, KSK, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | eigenes Angebot erlaubt | zu hoch, Angebot machen |
+| Anni Perka | 3.000 € (2×20 Min.) / 4.000 € (2×30 Min.) | USt, KSK, Hotel 1 DZ (Künstlerin + Mann/Manager), Fahrt, evtl. Technik | kaum (Mann = Manager) | zu hoch, zurückstellen |
+| Liane | unbekannt | — | — | noch nicht angefragt |
+| Linda Fäh | unbekannt | — | — | noch nicht angefragt |
+| Jenice | unbekannt | — | — | noch nicht angefragt |
+| Heike Renner | unbekannt | — | — | noch nicht angefragt |
+
+---
+
+## Kostenrechnung pro Künstler (Schätzung Gesamtkosten)
+
+### Annahmen für Kalkulation
+- Hotel: 2 Nächte × EZ 80 € / DZ 130 €
+- Fahrtkosten: geschätzt 100–300 € (je nach Entfernung)
+- KSK: 4,9 % auf Nettobetrag
+- Ausländersteuer: 18,8 % auf Nettobetrag (wo zutreffend)
+
+---
+
+### Duo Sunrise — 2.500 € (Fanclubpreis)
+| Posten | Betrag |
+|---|---|
+| Gage netto | 2.500 € |
+| USt (Prüfen ob anwendbar) | ggf. 475 € |
+| Ausländersteuer | wahrscheinlich entfällt (DE-Wohnsitz) |
+| KSK 4,9 % | 122,50 € |
+| Hotel (entfällt wenn Technik-Deal) | ~320 € |
+| Fahrt | ~200 € |
+| Technik (wenn selbst mitgebracht) | **0 €** ✅ |
+| **Gesamt ca.** | **~2.800–3.300 €** |
+
+→ Günstigster Vollkünstler wenn Technik inklusive. Sehr interessant.
+
+---
+
+### Melanie Payer — 900–1.000 €
+| Posten | Betrag |
+|---|---|
+| Gage netto | 900–1.000 € |
+| Ausländersteuer 18,8 % | 169–188 € |
+| KSK 4,9 % | 44–49 € |
+| Hotel 2 EZ (2 Nächte) | ~320 € |
+| Fahrt | ~150–250 € |
+| Technik | ggf. extra |
+| **Gesamt ca.** | **~1.600–1.800 €** |
+
+→ Günstigste Option insgesamt. Gage niedrig, aber Ausländersteuer + Hotel kommt dazu.
+
+---
+
+### Uta Bresan — 2.000–3.500 €
+| Posten | Betrag |
+|---|---|
+| Gage netto | 2.000–3.500 € |
+| KSK 4,9 % | 98–172 € |
+| Hotel 2 EZ (2 Nächte) | ~320 € |
+| Fahrt | ~150–300 € |
+| Technik | ggf. extra |
+| **Gesamt ca.** | **~2.600–4.300 €** |
+
+→ Breite Preisspanne — unteres Ende (2.000 €) wäre gut machbar.
+
+---
+
+### Pia-Sophie — 2.900 € (zu hoch)
+| Posten | Betrag |
+|---|---|
+| Gage netto | 2.900 € |
+| KSK 4,9 % | 142 € |
+| Hotel 2 EZ (2 Nächte) | ~320 € |
+| Fahrt | ~150–300 € |
+| Technik | ggf. extra |
+| **Gesamt ca.** | **~3.500–3.700 €** |
+
+→ Eigenes Angebot: ca. 1.500–1.800 € als Einstieg versuchen.
+
+---
+
+## Nächste Schritte je Künstler
+
+| Künstler | Nächster Schritt | Vorlage |
 |---|---|---|
-| Duo Sunrise | angefragt, Gage ok | Konkretisierung + Technik-Frage → Vorlage 4 |
-| Melanie Payer | angefragt, Gage unklar | Nachfassen → Vorlage 2 |
-| Pia-Sophie | angefragt, zu hoch | Eigenes Angebot machen → Vorlage 1 |
-| Anni Perka | angefragt, zu hoch | Zurückstellen |
-| Liane | noch nicht angefragt | Erstanfrage → Vorlage A |
-| Linda Fäh | noch nicht angefragt | Erstanfrage → Vorlage A |
-| Jenice | noch nicht angefragt | Erstanfrage → Vorlage A |
-| Heike Renner | noch nicht angefragt | Erstanfrage → Vorlage A |
-| Uta Bresan | noch nicht angefragt | Instagram-DM → Vorlage B |
+| Duo Sunrise | Konkretisierung + Technik-Frage | Vorlage 4 |
+| Melanie Payer | Nachfassen beim Manager | Vorlage 2 |
+| Uta Bresan | Konditionen prüfen, ggf. verhandeln | — |
+| Pia-Sophie | Eigenes Angebot ca. 1.500–1.800 € | Vorlage 1 |
+| Anni Perka | Zurückstellen | — |
+| Liane, Linda Fäh, Jenice, Heike Renner | Erstanfrage | Vorlage A |
