@@ -136,7 +136,7 @@ Andreas Mayer
 | Uta Bresan | 2.000–3.500 € | USt, KSK 4,9%, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | ? | angefragt über Management |
 | Pia-Sophie | 2.900 € (zu hoch kommuniziert) | USt, KSK, Hotel 2 EZ (Künstlerin + Manager), Fahrt, evtl. Technik | eigenes Angebot erlaubt | **TV-Präsenz: Giovanni Zarella (ZDF), Immer wieder sonntags (ARD), ZDF Fernsehgarten, viele Auftritte CH → aufsteigender Stern, sehr gefragt** |
 | Anni Perka | 3.000 € (2×20 Min.) / 4.000 € (2×30 Min.) | USt, KSK, Hotel 1 DZ (Künstlerin + Mann/Manager), Fahrt, evtl. Technik | kaum (Mann = Manager) | zu hoch, zurückstellen |
-| Liane | unbekannt | — | — | noch nicht angefragt |
+| Liane | unbekannt | — | per du, Fanclub | aufsteigend, europaweit, Bolero Mallorca — Budget-Anfrage mit Preisnennung empfohlen |
 | Linda Fäh | unbekannt | — | — | noch nicht angefragt |
 | Jenice | unbekannt | — | — | noch nicht angefragt |
 | Heike Renner | unbekannt | — | — | noch nicht angefragt |
