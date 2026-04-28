@@ -8,12 +8,14 @@ Aufbau von zwei Einkommensströmen parallel zum Weinverkauf (HV):
 ## Event-Details (August/September 2027)
 - Größe: klein, ca. **100–120 Personen**
 - Mögliche Künstler (persönliche Kontakte vorhanden):
-  - Duo Sunrise
-  - Melanie Payer
-  - Pia-Sophie
-  - Liane
-  - Anni Perka
-  - Uta Bresan
+  - **Duo Sunrise** — 2 Personen, Gage im normalen Rahmen, haben bei Andreas schon Privatveranstaltung gemacht → könnten Bühnentechnik selbst übernehmen = keine Extra-Technikkosten ✅ vielversprechend
+  - **Melanie Payer** — Manager ist guter Bekannter (Andreas war einer der ersten Fans) → Entgegenkommen bei Gage möglich
+  - **Pia-Sophie** — Gage zu hoch, aber Manager erlaubt eigenes Angebot von Andreas
+  - **Anni Perka** — Gage zu hoch, kaum verhandelbar → zurückstellen
+  - **Liane** — noch nicht angefragt
+  - **Linda Fäh** — noch nicht angefragt
+  - **Jenice** — noch nicht angefragt (internes Team-Mitglied)
+  - **Uta Bresan** — noch nicht angefragt (Instagram-Kontakt vorhanden)
 
 ## ELEVATE (Hauptprodukt @digital.income.de)
 - Umfassender Online-Kurs zum Aufbau eines Online-Business
