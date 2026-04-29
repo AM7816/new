@@ -207,6 +207,54 @@ Strategie: Beiläufig das Event-Thema erwähnen, kein Druck, kein Pitch. Reaktio
 
 ---
 
+## Persönliches & Privat
+
+- Schlagerfan seit Kindheit: Volkstümlicher Schlager → Moderner Schlager → Popschlager
+- Hört Popschlager auch privat am liebsten
+- Geht wieder regelmäßiger zu Konzerten (geplant)
+- Motivation hinter dem Masterplan: mehr Einkommen, mehr Freiheit, Weinverkauf langfristig ersetzen
+- Das Event 2027 ist Herzensprojekt — soll aber Gewinn machen
+
+### Aktuelle persönliche Situation
+- Instagram-Kontakt zu einer Wunschfrau (viele Follower) seit ca. 2 Jahren, 1–2x pro Woche
+- Hat Andreas gesagt sie trifft sich nicht mit Followern
+- Frühstücks-Einladung von Andreas bisher ohne Reaktion
+- Strategie: nicht nachhaken, normal weiterschreiben, kein Druck
+
+---
+
+## Social Media (privat)
+
+- Instagram: aktiv — Künstlersupport (Stories, Reposts), allgemeine Nutzung
+- Facebook: aktiv
+- TikTok: gelegentlich
+- Keine bisherige Business-Erfahrung mit Social Media
+
+---
+
+## Aktueller Status (April/Mai 2026)
+
+- Steuererklärungen: Einkommensteuer läuft gerade (Calc-Tabellen → dann ELSTER)
+  → danach Gewerbesteuererklärung (abhängig vom Gewerbeertrag)
+  → danach Umsatzsteuererklärung
+- Satellite.me: fast fertig, wartet auf Verifizierungsbrief
+- Pia-Sophie: Manager bereits kontaktiert, 2.900 € abgelehnt, eigenes Angebot steht aus
+- Kostenüberschlagung Event: kommt von Andreas → dann Budgetoptimierung + Sponsoren-Vorlagen
+
+---
+
+## Event-Konzept Details
+
+- Venue-Layout: Tanzfläche direkt vor der Bühne (Fans wollen nah dran sein), VIP-Tische seitlich
+- 3 Künstler je ca. 2 × 20 Min. Auftrittszeit → Abend gut gefüllt, Abwechslung
+- Fanclub-Event Ansatz: gibt Glaubwürdigkeit + fertige Zielgruppe + Sunrise würde es im Fanclub promoten
+- Gesamtkosten geschätzt: ~30.000 € (Kostendetails folgen von Andreas)
+- Sponsoren-Bedarf: ca. 24.000–26.000 € (Tickets decken nur ~4.000–6.000 €)
+- Pallhuber als Sponsor: ausgeschlossen (kein persönlicher Kontakt zur Geschäftsführung)
+- Erster Sponsor-Kandidat: Raiffeisenbank
+
+---
+
 ## Zusammenarbeit
 
 - Claude übernimmt: fast alles aus dem Masterplan, Texte, Vorlagen, Recherchen, Kalkulationen, auch private Fragen
