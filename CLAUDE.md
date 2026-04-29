@@ -215,12 +215,6 @@ Strategie: Beiläufig das Event-Thema erwähnen, kein Druck, kein Pitch. Reaktio
 - Motivation hinter dem Masterplan: mehr Einkommen, mehr Freiheit, Weinverkauf langfristig ersetzen
 - Das Event 2027 ist Herzensprojekt — soll aber Gewinn machen
 
-### Aktuelle persönliche Situation
-- Instagram-Kontakt zu einer Wunschfrau (viele Follower) seit ca. 2 Jahren, 1–2x pro Woche
-- Hat Andreas gesagt sie trifft sich nicht mit Followern
-- Frühstücks-Einladung von Andreas bisher ohne Reaktion
-- Strategie: nicht nachhaken, normal weiterschreiben, kein Druck
-
 ---
 
 ## Social Media (privat)
